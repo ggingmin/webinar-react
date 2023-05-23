@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          클라우드타입
+          cloudtype
         </p>
         <a
           className="App-link"
